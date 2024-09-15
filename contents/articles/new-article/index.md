@@ -5,4 +5,4 @@ title: Hello World
 template: article.pug
 date: '2024-09-15'
 ---
-Lorem Ipsum
+Lorem Ipsum, hello world!
